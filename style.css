@@ -35,6 +35,12 @@ nav h1 {
     letter-spacing: 2px;
 }
 
+@media (max-width: 576px) {
+    nav h1 {
+        font-size: 25px;
+    }
+}
+
 nav button {
     background: #d23669;
     color: white;
